@@ -1,2 +1,2 @@
 # Real_Estate_Market
-My thesis - Real Estate Market Analysis of Armenia
+Thesis - Analysis of Real Estate Market of Armenia
